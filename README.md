@@ -31,6 +31,7 @@ A modern, real-time desktop application built with Python for facial analysis, e
    ```bash
    pip install -r Requiriments.txt
 3. Run the application:
+   ```bash
    python app.py
 
 ## 👨‍💻 AuthorVishal Ratan Bhoi.  MCA Student  
