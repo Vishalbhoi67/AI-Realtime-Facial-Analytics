@@ -28,6 +28,7 @@ A modern, real-time desktop application built with Python for facial analysis, e
    git clone [https://github.com/Vishalbhoi67/AI-Realtime-Facial-Analytics.git](https://github.com/Vishalbhoi67/AI-Realtime-Facial-Analytics.git)
    cd AI-Realtime-Facial-Analytics
 2. ** Install the required dependencies
+   ```bash
    pip install -r Requiriments.txt
 3. Run the application:
    python app.py
