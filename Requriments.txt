@@ -1,0 +1,53 @@
+================================================================================
+          PROJECT REQUIREMENTS & TECHNICAL SPECIFICATIONS
+================================================================================
+
+PROJECT NAME: AI Real-Time Facial Analytics & Data Logger
+DEVELOPER: Sourabh Shimpi (MCA 2nd Year Student)
+TECH STACK: CustomTkinter, OpenCV, DeepFace, Pandas, NumPy, Psutil, Pillow
+
+--------------------------------------------------------------------------------
+1. SOFTWARE & ENVIRONMENT REQUIREMENTS
+--------------------------------------------------------------------------------
+- Operating System: Windows 10 / 11 (64-bit)
+- Programming Language: Python 3.11.x (Installer Size: ~25 MB)
+  * Compatible with Python 3.11.4
+- System Dependency: Microsoft Visual C++ 2015–2022 Redistributable (x64) 
+  (Installer Size: ~24 MB)
+
+--------------------------------------------------------------------------------
+2. PYTHON DEPENDENCIES & STORAGE SIZES (requirements.txt)
+--------------------------------------------------------------------------------
+- customtkinter >= 5.2.0    (~10 MB)  : Modern Dark GUI Framework
+- opencv-python >= 4.8.0    (~35 MB)  : Real-time Camera Feed & Image Overlays
+- deepface >= 0.0.85        (~15 MB)  : Core AI Facial Analysis Engine
+- tf-keras >= 2.15.0        (~50 MB)  : Keras Backend for DeepFace
+- tensorflow >= 2.15.0      (~450 MB) : Neural Network Deep Learning Framework
+- pandas >= 2.0.0           (~30 MB)  : Data Logging & CSV Export Engine
+- numpy >= 1.23.0           (~15 MB)  : Matrix Computations & Image Arrays
+- psutil >= 5.9.0           (~5 MB)   : Real-time Hardware Telemetry (CPU/RAM)
+- Pillow >= 9.5.0           (~10 MB)  : Image Conversion for Tkinter Canvas
+- DeepFace Model Weights    (~550 MB) : Pre-trained AI Weights (Age/Gender/Emotion)
+                                        *Downloaded automatically on first run
+
+TOTAL DISK SPACE REQUIRED: ~1.2 GB - 1.5 GB
+
+--------------------------------------------------------------------------------
+3. SYSTEM HARDWARE REQUIREMENTS
+--------------------------------------------------------------------------------
+
+MINIMUM SYSTEM REQUIREMENTS:
+- Processor (CPU): Dual-Core Intel Core i3 / AMD Ryzen 3
+- Memory (RAM)   : 4 GB RAM
+- Storage (Disk) : 2 GB free SSD/HDD space
+- Camera         : Integrated Laptop Webcam (720p)
+- Internet       : Required ONCE on first boot to download AI model weights
+
+RECOMMENDED SYSTEM REQUIREMENTS:
+- Processor (CPU): Quad-Core Intel Core i5 / AMD Ryzen 5 or higher
+- Memory (RAM)   : 8 GB RAM or higher
+- Storage (Disk) : 5 GB free SSD space (For faster AI model loading)
+- Camera         : External HD Webcam (1080p)
+- Internet       : Offline capable after initial setup
+
+================================================================================
