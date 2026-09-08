@@ -1,4 +1,4 @@
-# ** 🤖 AI Real-Time Facial Analytics
+# 🤖 AI Real-Time Facial Analytics
 
 A modern, real-time desktop application built with Python for facial analysis, emotion tracking, and automated data logging.
 
