@@ -34,4 +34,4 @@ A modern, real-time desktop application built with Python for facial analysis, e
    ```bash
    python app.py
 
-## 👨‍💻 AuthorVishal Ratan Bhoi.  MCA Student  
+## 👨‍💻 AuthorVishal Ratan Bhoi.  MCA Student
